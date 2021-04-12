@@ -1,5 +1,5 @@
 <h1 align="center">  
-  Treinamento para OBI - UFRJ <br/><br/> 
+  Treinamento para a OBI - UFRJ <br/><br/> 
   <img src="https://www.ifmg.edu.br/ourobranco/noticias/alunos-participam-da-olimpiada-brasileira-de-informatica/obi-2020.png/@@images/4d4e77a4-7a20-4e34-839f-76fcb3edc0ce.png" alt="OBI" width="37%" >  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7b/Minerva_UFRJ_Oficial.png" alt="UFRJ" width="25%" >
 
   <br>
