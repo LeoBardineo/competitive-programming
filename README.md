@@ -20,7 +20,9 @@ Caso não conheça, a [Olimpíada Brasileira de Informática](https://olimpiada.
 
 A [URI Online Judge](https://www.urionlinejudge.com.br/) é uma plataforma com o intuito de resolver diversos problemas e ajudar na prática a pensar em soluções e transformá-las em código. Só por meio da prática é possível ter um bom desempenho em competições de programação como a da OBI.
 
-[Clique aqui para visualizar o meu perfil na URI.](https://www.urionlinejudge.com.br/judge/en/profile/533172)
+O [treinamento](https://sites.google.com/view/obi-ufrj-2020-2-e-2020-1) tem como objetivo preparar os calouros a estarem aptos a participar da OBI. Os encontros síncronos ocorrem toda segunda-feira às 18h a partir do dia 29/03, onde são passados conteúdos, desde o básico de como programar em C/C++ até conhecimentos avançados de programação competitiva.
+
+[Visualize meu perfil na URI.](https://www.urionlinejudge.com.br/judge/en/profile/533172)
 
 ## Semanas
 
