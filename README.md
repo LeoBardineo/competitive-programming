@@ -1,20 +1,17 @@
-<center>
-  <h1>Treinamento para OBI - UFRJ</h1>
-
-  <img src="./asset/obi-logo.jpg" alt="OBI" width="25%" >
-  <img src="./asset/002minerva_color_hor.png" alt="UFRJ" width="50%" >
+<h1 align="center">  
+  Treinamento para OBI - UFRJ <br/><br/> 
+  <img src="https://www.ifmg.edu.br/ourobranco/noticias/alunos-participam-da-olimpiada-brasileira-de-informatica/obi-2020.png/@@images/4d4e77a4-7a20-4e34-839f-76fcb3edc0ce.png" alt="OBI" width="37%" >  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7b/Minerva_UFRJ_Oficial.png" alt="UFRJ" width="25%" >
 
   <br>
   <br>
 
   <img src="https://img.shields.io/github/license/LeoBardineo/ufrj-treinamento-obi" alt="License MIT" >
-
   <a href="https://gitmoji.dev">
     <img src="https://img.shields.io/badge/gitmoji-%20😜%20😍-FFDD67.svg?style=flat-square" alt="Gitmoji">
   </a>
-</center>
+</h1>
 
-## Treinamento para OBI - UFRJ
+## Informações gerais
 
 Aqui contém todos os meus exercícios feitos durante as semanas de treinamento para OBI. Os exercícios são feitos na plataforma denominada URI Online Judge.
 
