@@ -19,7 +19,7 @@ fs.readdir(directoryPath, function (err, files) {
     let markdownTOC = '';
     let markdownContent = '';
 
-    cppFilesFormated.forEach((name) => {
+    cppFilesFormated.forEach((name, index) => {
       let number = name.substring(0, 4)
       let problemName = name.substring(5, name.length)
       markdownTOC += `* [${number} - ${problemName}](#${number})\n`
@@ -28,6 +28,7 @@ fs.readdir(directoryPath, function (err, files) {
       markdownContent += `## ${number} - ${problemName}\n\n`
       markdownContent += `Mensagem de exemplo.\n\n`
       markdownContent += `[Acesse o problema.](https://www.urionlinejudge.com.br/judge/en/problems/view/${number})\n\n`
+      markdownContent += `[Veja minha solução ao problema.](https://github.com/LeoBardineo/ufrj-treinamento-obi/blob/main/semana-0${args[0]}/${cppFiles[index]})\n\n`
       markdownContent += `[Voltar aos tópicos de exercícios.](#toc)\n`
     })
 

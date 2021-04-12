@@ -22,6 +22,8 @@ Mensagem de exemplo.
 
 [Acesse o problema.](https://www.urionlinejudge.com.br/judge/en/problems/view/1000)
 
+[Veja minha solução ao problema.](https://github.com/LeoBardineo/ufrj-treinamento-obi/blob/main/semana-01/1000_HelloWorld.cpp)
+
 [Voltar aos tópicos de exercícios.](#toc)
 
 <hr id="1001">
@@ -31,6 +33,8 @@ Mensagem de exemplo.
 Mensagem de exemplo.
 
 [Acesse o problema.](https://www.urionlinejudge.com.br/judge/en/problems/view/1001)
+
+[Veja minha solução ao problema.](https://github.com/LeoBardineo/ufrj-treinamento-obi/blob/main/semana-01/1001_ExtremelyBasic.cpp)
 
 [Voltar aos tópicos de exercícios.](#toc)
 
@@ -42,6 +46,8 @@ Mensagem de exemplo.
 
 [Acesse o problema.](https://www.urionlinejudge.com.br/judge/en/problems/view/1003)
 
+[Veja minha solução ao problema.](https://github.com/LeoBardineo/ufrj-treinamento-obi/blob/main/semana-01/1003_SimpleSum.cpp)
+
 [Voltar aos tópicos de exercícios.](#toc)
 
 <hr id="1005">
@@ -51,6 +57,8 @@ Mensagem de exemplo.
 Mensagem de exemplo.
 
 [Acesse o problema.](https://www.urionlinejudge.com.br/judge/en/problems/view/1005)
+
+[Veja minha solução ao problema.](https://github.com/LeoBardineo/ufrj-treinamento-obi/blob/main/semana-01/1005_Average1.cpp)
 
 [Voltar aos tópicos de exercícios.](#toc)
 
@@ -62,6 +70,8 @@ Mensagem de exemplo.
 
 [Acesse o problema.](https://www.urionlinejudge.com.br/judge/en/problems/view/1010)
 
+[Veja minha solução ao problema.](https://github.com/LeoBardineo/ufrj-treinamento-obi/blob/main/semana-01/1010_SimpleCalculate.cpp)
+
 [Voltar aos tópicos de exercícios.](#toc)
 
 <hr id="1011">
@@ -71,6 +81,8 @@ Mensagem de exemplo.
 Mensagem de exemplo.
 
 [Acesse o problema.](https://www.urionlinejudge.com.br/judge/en/problems/view/1011)
+
+[Veja minha solução ao problema.](https://github.com/LeoBardineo/ufrj-treinamento-obi/blob/main/semana-01/1011_Sphere.cpp)
 
 [Voltar aos tópicos de exercícios.](#toc)
 
@@ -82,6 +94,8 @@ Mensagem de exemplo.
 
 [Acesse o problema.](https://www.urionlinejudge.com.br/judge/en/problems/view/1014)
 
+[Veja minha solução ao problema.](https://github.com/LeoBardineo/ufrj-treinamento-obi/blob/main/semana-01/1014_Consumption.cpp)
+
 [Voltar aos tópicos de exercícios.](#toc)
 
 <hr id="1016">
@@ -91,6 +105,8 @@ Mensagem de exemplo.
 Mensagem de exemplo.
 
 [Acesse o problema.](https://www.urionlinejudge.com.br/judge/en/problems/view/1016)
+
+[Veja minha solução ao problema.](https://github.com/LeoBardineo/ufrj-treinamento-obi/blob/main/semana-01/1016_Distance.cpp)
 
 [Voltar aos tópicos de exercícios.](#toc)
 
@@ -102,6 +118,8 @@ Mensagem de exemplo.
 
 [Acesse o problema.](https://www.urionlinejudge.com.br/judge/en/problems/view/1018)
 
+[Veja minha solução ao problema.](https://github.com/LeoBardineo/ufrj-treinamento-obi/blob/main/semana-01/1018_Banknotes.cpp)
+
 [Voltar aos tópicos de exercícios.](#toc)
 
 <hr id="1020">
@@ -111,6 +129,8 @@ Mensagem de exemplo.
 Mensagem de exemplo.
 
 [Acesse o problema.](https://www.urionlinejudge.com.br/judge/en/problems/view/1020)
+
+[Veja minha solução ao problema.](https://github.com/LeoBardineo/ufrj-treinamento-obi/blob/main/semana-01/1020_AgeInDays.cpp)
 
 [Voltar aos tópicos de exercícios.](#toc)
 
@@ -122,6 +142,8 @@ Mensagem de exemplo.
 
 [Acesse o problema.](https://www.urionlinejudge.com.br/judge/en/problems/view/1021)
 
+[Veja minha solução ao problema.](https://github.com/LeoBardineo/ufrj-treinamento-obi/blob/main/semana-01/1021_BanknotesAndCoins.cpp)
+
 [Voltar aos tópicos de exercícios.](#toc)
 
 <hr id="2374">
@@ -132,6 +154,8 @@ Mensagem de exemplo.
 
 [Acesse o problema.](https://www.urionlinejudge.com.br/judge/en/problems/view/2374)
 
+[Veja minha solução ao problema.](https://github.com/LeoBardineo/ufrj-treinamento-obi/blob/main/semana-01/2374_Pneu.cpp)
+
 [Voltar aos tópicos de exercícios.](#toc)
 
 <hr id="2413">
@@ -141,5 +165,7 @@ Mensagem de exemplo.
 Mensagem de exemplo.
 
 [Acesse o problema.](https://www.urionlinejudge.com.br/judge/en/problems/view/2413)
+
+[Veja minha solução ao problema.](https://github.com/LeoBardineo/ufrj-treinamento-obi/blob/main/semana-01/2413_BuscaNaInternet.cpp)
 
 [Voltar aos tópicos de exercícios.](#toc)
