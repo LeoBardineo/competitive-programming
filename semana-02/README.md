@@ -18,6 +18,7 @@
 Mensagem de exemplo.
 
 [Acesse o problema.](https://www.urionlinejudge.com.br/judge/en/problems/view/1014)
+
 [Voltar aos tópicos de exercícios.](#toc)
 
 <hr id="1035">
@@ -27,6 +28,7 @@ Mensagem de exemplo.
 Mensagem de exemplo.
 
 [Acesse o problema.](https://www.urionlinejudge.com.br/judge/en/problems/view/1035)
+
 [Voltar aos tópicos de exercícios.](#toc)
 
 <hr id="1037">
@@ -36,6 +38,7 @@ Mensagem de exemplo.
 Mensagem de exemplo.
 
 [Acesse o problema.](https://www.urionlinejudge.com.br/judge/en/problems/view/1037)
+
 [Voltar aos tópicos de exercícios.](#toc)
 
 <hr id="1038">
@@ -45,6 +48,7 @@ Mensagem de exemplo.
 Mensagem de exemplo.
 
 [Acesse o problema.](https://www.urionlinejudge.com.br/judge/en/problems/view/1038)
+
 [Voltar aos tópicos de exercícios.](#toc)
 
 <hr id="1041">
@@ -54,6 +58,7 @@ Mensagem de exemplo.
 Mensagem de exemplo.
 
 [Acesse o problema.](https://www.urionlinejudge.com.br/judge/en/problems/view/1041)
+
 [Voltar aos tópicos de exercícios.](#toc)
 
 <hr id="2239">
@@ -63,6 +68,7 @@ Mensagem de exemplo.
 Mensagem de exemplo.
 
 [Acesse o problema.](https://www.urionlinejudge.com.br/judge/en/problems/view/2239)
+
 [Voltar aos tópicos de exercícios.](#toc)
 
 <hr id="2342">
@@ -72,6 +78,7 @@ Mensagem de exemplo.
 Mensagem de exemplo.
 
 [Acesse o problema.](https://www.urionlinejudge.com.br/judge/en/problems/view/2342)
+
 [Voltar aos tópicos de exercícios.](#toc)
 
 <hr id="2424">
@@ -81,6 +88,7 @@ Mensagem de exemplo.
 Mensagem de exemplo.
 
 [Acesse o problema.](https://www.urionlinejudge.com.br/judge/en/problems/view/2424)
+
 [Voltar aos tópicos de exercícios.](#toc)
 
 <hr id="2454">
@@ -90,6 +98,7 @@ Mensagem de exemplo.
 Mensagem de exemplo.
 
 [Acesse o problema.](https://www.urionlinejudge.com.br/judge/en/problems/view/2454)
+
 [Voltar aos tópicos de exercícios.](#toc)
 
 <hr id="2455">
@@ -99,4 +108,5 @@ Mensagem de exemplo.
 Mensagem de exemplo.
 
 [Acesse o problema.](https://www.urionlinejudge.com.br/judge/en/problems/view/2455)
+
 [Voltar aos tópicos de exercícios.](#toc)

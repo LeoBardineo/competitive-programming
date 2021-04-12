@@ -21,6 +21,7 @@
 Mensagem de exemplo.
 
 [Acesse o problema.](https://www.urionlinejudge.com.br/judge/en/problems/view/1000)
+
 [Voltar aos tópicos de exercícios.](#toc)
 
 <hr id="1001">
@@ -30,6 +31,7 @@ Mensagem de exemplo.
 Mensagem de exemplo.
 
 [Acesse o problema.](https://www.urionlinejudge.com.br/judge/en/problems/view/1001)
+
 [Voltar aos tópicos de exercícios.](#toc)
 
 <hr id="1003">
@@ -39,6 +41,7 @@ Mensagem de exemplo.
 Mensagem de exemplo.
 
 [Acesse o problema.](https://www.urionlinejudge.com.br/judge/en/problems/view/1003)
+
 [Voltar aos tópicos de exercícios.](#toc)
 
 <hr id="1005">
@@ -48,6 +51,7 @@ Mensagem de exemplo.
 Mensagem de exemplo.
 
 [Acesse o problema.](https://www.urionlinejudge.com.br/judge/en/problems/view/1005)
+
 [Voltar aos tópicos de exercícios.](#toc)
 
 <hr id="1010">
@@ -57,6 +61,7 @@ Mensagem de exemplo.
 Mensagem de exemplo.
 
 [Acesse o problema.](https://www.urionlinejudge.com.br/judge/en/problems/view/1010)
+
 [Voltar aos tópicos de exercícios.](#toc)
 
 <hr id="1011">
@@ -66,6 +71,7 @@ Mensagem de exemplo.
 Mensagem de exemplo.
 
 [Acesse o problema.](https://www.urionlinejudge.com.br/judge/en/problems/view/1011)
+
 [Voltar aos tópicos de exercícios.](#toc)
 
 <hr id="1014">
@@ -75,6 +81,7 @@ Mensagem de exemplo.
 Mensagem de exemplo.
 
 [Acesse o problema.](https://www.urionlinejudge.com.br/judge/en/problems/view/1014)
+
 [Voltar aos tópicos de exercícios.](#toc)
 
 <hr id="1016">
@@ -84,6 +91,7 @@ Mensagem de exemplo.
 Mensagem de exemplo.
 
 [Acesse o problema.](https://www.urionlinejudge.com.br/judge/en/problems/view/1016)
+
 [Voltar aos tópicos de exercícios.](#toc)
 
 <hr id="1018">
@@ -93,6 +101,7 @@ Mensagem de exemplo.
 Mensagem de exemplo.
 
 [Acesse o problema.](https://www.urionlinejudge.com.br/judge/en/problems/view/1018)
+
 [Voltar aos tópicos de exercícios.](#toc)
 
 <hr id="1020">
@@ -102,6 +111,7 @@ Mensagem de exemplo.
 Mensagem de exemplo.
 
 [Acesse o problema.](https://www.urionlinejudge.com.br/judge/en/problems/view/1020)
+
 [Voltar aos tópicos de exercícios.](#toc)
 
 <hr id="1021">
@@ -111,6 +121,7 @@ Mensagem de exemplo.
 Mensagem de exemplo.
 
 [Acesse o problema.](https://www.urionlinejudge.com.br/judge/en/problems/view/1021)
+
 [Voltar aos tópicos de exercícios.](#toc)
 
 <hr id="2374">
@@ -120,6 +131,7 @@ Mensagem de exemplo.
 Mensagem de exemplo.
 
 [Acesse o problema.](https://www.urionlinejudge.com.br/judge/en/problems/view/2374)
+
 [Voltar aos tópicos de exercícios.](#toc)
 
 <hr id="2413">
@@ -129,4 +141,5 @@ Mensagem de exemplo.
 Mensagem de exemplo.
 
 [Acesse o problema.](https://www.urionlinejudge.com.br/judge/en/problems/view/2413)
+
 [Voltar aos tópicos de exercícios.](#toc)

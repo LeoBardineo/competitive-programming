@@ -27,7 +27,7 @@ fs.readdir(directoryPath, function (err, files) {
       markdownContent += `\n<hr id="${number}">\n\n`
       markdownContent += `## ${number} - ${problemName}\n\n`
       markdownContent += `Mensagem de exemplo.\n\n`
-      markdownContent += `[Acesse o problema.](https://www.urionlinejudge.com.br/judge/en/problems/view/${number})\n`
+      markdownContent += `[Acesse o problema.](https://www.urionlinejudge.com.br/judge/en/problems/view/${number})\n\n`
       markdownContent += `[Voltar aos tópicos de exercícios.](#toc)\n`
     })
 
