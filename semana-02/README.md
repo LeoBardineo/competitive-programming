@@ -1,5 +1,9 @@
 <h2 id="toc"> Exercícios feitos na semana 2 </h2>
 
+Aqui contém todos os exercícios feitos na semana 2, o problema apresentado no exercício, a documentação do código e o código em si.
+
+Navegue entre os exercícios abaixo:
+
 * [1014 - Simple Sort](#1014)
 * [1035 - Selection Test1](#1035)
 * [1037 - Interval](#1037)
@@ -17,11 +21,11 @@
 
 Mensagem de exemplo.
 
-[Acesse o problema.](https://www.urionlinejudge.com.br/judge/en/problems/view/1014)
+[Acesse o problema.](https://www.urionlinejudge.com.br/judge/pt/problems/view/1014)
 
 [Veja minha solução ao problema.](https://github.com/LeoBardineo/ufrj-treinamento-obi/blob/main/semana-02/1014_SimpleSort.cpp)
 
-[Voltar aos tópicos de exercícios.](#toc)
+[Volte aos tópicos de exercícios.](#toc)
 
 <hr id="1035">
 
@@ -29,11 +33,11 @@ Mensagem de exemplo.
 
 Mensagem de exemplo.
 
-[Acesse o problema.](https://www.urionlinejudge.com.br/judge/en/problems/view/1035)
+[Acesse o problema.](https://www.urionlinejudge.com.br/judge/pt/problems/view/1035)
 
 [Veja minha solução ao problema.](https://github.com/LeoBardineo/ufrj-treinamento-obi/blob/main/semana-02/1035_SelectionTest1.cpp)
 
-[Voltar aos tópicos de exercícios.](#toc)
+[Volte aos tópicos de exercícios.](#toc)
 
 <hr id="1037">
 
@@ -41,11 +45,11 @@ Mensagem de exemplo.
 
 Mensagem de exemplo.
 
-[Acesse o problema.](https://www.urionlinejudge.com.br/judge/en/problems/view/1037)
+[Acesse o problema.](https://www.urionlinejudge.com.br/judge/pt/problems/view/1037)
 
 [Veja minha solução ao problema.](https://github.com/LeoBardineo/ufrj-treinamento-obi/blob/main/semana-02/1037_Interval.cpp)
 
-[Voltar aos tópicos de exercícios.](#toc)
+[Volte aos tópicos de exercícios.](#toc)
 
 <hr id="1038">
 
@@ -53,11 +57,11 @@ Mensagem de exemplo.
 
 Mensagem de exemplo.
 
-[Acesse o problema.](https://www.urionlinejudge.com.br/judge/en/problems/view/1038)
+[Acesse o problema.](https://www.urionlinejudge.com.br/judge/pt/problems/view/1038)
 
 [Veja minha solução ao problema.](https://github.com/LeoBardineo/ufrj-treinamento-obi/blob/main/semana-02/1038_Snack.cpp)
 
-[Voltar aos tópicos de exercícios.](#toc)
+[Volte aos tópicos de exercícios.](#toc)
 
 <hr id="1041">
 
@@ -65,11 +69,11 @@ Mensagem de exemplo.
 
 Mensagem de exemplo.
 
-[Acesse o problema.](https://www.urionlinejudge.com.br/judge/en/problems/view/1041)
+[Acesse o problema.](https://www.urionlinejudge.com.br/judge/pt/problems/view/1041)
 
 [Veja minha solução ao problema.](https://github.com/LeoBardineo/ufrj-treinamento-obi/blob/main/semana-02/1041_CoordinatesOfAPoint.cpp)
 
-[Voltar aos tópicos de exercícios.](#toc)
+[Volte aos tópicos de exercícios.](#toc)
 
 <hr id="2239">
 
@@ -77,11 +81,11 @@ Mensagem de exemplo.
 
 Mensagem de exemplo.
 
-[Acesse o problema.](https://www.urionlinejudge.com.br/judge/en/problems/view/2239)
+[Acesse o problema.](https://www.urionlinejudge.com.br/judge/pt/problems/view/2239)
 
 [Veja minha solução ao problema.](https://github.com/LeoBardineo/ufrj-treinamento-obi/blob/main/semana-02/2239_AvioesDePapel.cpp)
 
-[Voltar aos tópicos de exercícios.](#toc)
+[Volte aos tópicos de exercícios.](#toc)
 
 <hr id="2342">
 
@@ -89,11 +93,11 @@ Mensagem de exemplo.
 
 Mensagem de exemplo.
 
-[Acesse o problema.](https://www.urionlinejudge.com.br/judge/en/problems/view/2342)
+[Acesse o problema.](https://www.urionlinejudge.com.br/judge/pt/problems/view/2342)
 
 [Veja minha solução ao problema.](https://github.com/LeoBardineo/ufrj-treinamento-obi/blob/main/semana-02/2342_Overflow.cpp)
 
-[Voltar aos tópicos de exercícios.](#toc)
+[Volte aos tópicos de exercícios.](#toc)
 
 <hr id="2424">
 
@@ -101,11 +105,11 @@ Mensagem de exemplo.
 
 Mensagem de exemplo.
 
-[Acesse o problema.](https://www.urionlinejudge.com.br/judge/en/problems/view/2424)
+[Acesse o problema.](https://www.urionlinejudge.com.br/judge/pt/problems/view/2424)
 
 [Veja minha solução ao problema.](https://github.com/LeoBardineo/ufrj-treinamento-obi/blob/main/semana-02/2424_TiraTeima.cpp)
 
-[Voltar aos tópicos de exercícios.](#toc)
+[Volte aos tópicos de exercícios.](#toc)
 
 <hr id="2454">
 
@@ -113,11 +117,11 @@ Mensagem de exemplo.
 
 Mensagem de exemplo.
 
-[Acesse o problema.](https://www.urionlinejudge.com.br/judge/en/problems/view/2454)
+[Acesse o problema.](https://www.urionlinejudge.com.br/judge/pt/problems/view/2454)
 
 [Veja minha solução ao problema.](https://github.com/LeoBardineo/ufrj-treinamento-obi/blob/main/semana-02/2454_Fliper.cpp)
 
-[Voltar aos tópicos de exercícios.](#toc)
+[Volte aos tópicos de exercícios.](#toc)
 
 <hr id="2455">
 
@@ -125,8 +129,8 @@ Mensagem de exemplo.
 
 Mensagem de exemplo.
 
-[Acesse o problema.](https://www.urionlinejudge.com.br/judge/en/problems/view/2455)
+[Acesse o problema.](https://www.urionlinejudge.com.br/judge/pt/problems/view/2455)
 
 [Veja minha solução ao problema.](https://github.com/LeoBardineo/ufrj-treinamento-obi/blob/main/semana-02/2455_Gangorra.cpp)
 
-[Voltar aos tópicos de exercícios.](#toc)
+[Volte aos tópicos de exercícios.](#toc)

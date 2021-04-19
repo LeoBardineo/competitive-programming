@@ -2,16 +2,6 @@
 
 using namespace std;
 
-// Ced = Cédula, Cent = Centavo
-// descobri q tem como fazer sem usar fmod
-// todo: arranjar um jeito melhor de fazer
-/*
-double n;
-cin >> n;
-int resto = n * 100;
-int notas100 = resto / 10000;
-resto = n % 100;
-*/
 int main(){
     int NInteiro, cemCed, cinquentaCed, vinteCed, dezCed, cincoCed, doisCed;
     int umMoeda, cinquentaCent, vinteCincoCent, dezCent, cincoCent, umCent;
