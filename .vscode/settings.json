@@ -3,6 +3,12 @@
     "iomanip": "cpp",
     "ostream": "cpp",
     "cmath": "cpp",
-    "random": "cpp"
+    "random": "cpp",
+    "iostream": "cpp",
+    "*.tcc": "cpp",
+    "deque": "cpp",
+    "string": "cpp",
+    "vector": "cpp",
+    "cstddef": "cpp"
   }
 }
